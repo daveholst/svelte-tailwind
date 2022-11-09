@@ -7,5 +7,5 @@ module.exports = {
     singleQuote: true,
     svelteSortOrder: 'options-scripts-markup-styles',
     trailingComma: 'none',
-    tabWidth: 2
+    tabWidth: 2,
 };
