@@ -1,10 +1,10 @@
 <script lang="ts">
-  import svelteLogo from './assets/svelte.svg';
-  import Counter from './lib/Counter.svelte';
   import './app.css';
 </script>
 
-<h1 class="text-3xl font-bold underline text-red-700">Hello world!</h1>
+<!-- NavBar -->
+<nav class="container relative mx-auto bg-red-500">Hello</nav>
+<h1 class="text-3xl font-bold text-red-700 underline">Hello world!</h1>
 
 <style>
 </style>
