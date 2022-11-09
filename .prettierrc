@@ -1,0 +1,9 @@
+{
+    "arrowParens": "avoid",
+    "bracketSpacing": false,
+    "singleQuote": true,
+    "svelteSortOrder": "options-scripts-markup-styles",
+    "trailingComma": "none",
+    "tabWidth": 2,
+    "plugins": ["prettier-plugin-svelte"]
+  }
