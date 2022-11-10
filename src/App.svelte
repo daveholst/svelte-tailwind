@@ -81,7 +81,7 @@
 
 <!-- Testimonials  -->
 <section id="testimonials">
-  <div class="max-w mx-auto mt-32 px-5 text-center">
+  <div class="container mx-auto mt-32 px-5 text-center">
     <!-- Heading -->
     <h2 class="text-center text-3xl font-bold">
       What's do people have to say?
